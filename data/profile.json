@@ -4,12 +4,12 @@
   "job": "Fullstack ",
   "location": "São Roque - SP",
   "phone": "(11) 96302-3011",
-  "email": "lumoediting@gmail.com",
+  "email": "luanmorales321@gmail.com",
   "skills": {
     "hardSkills": [
       {
         "name": "PHP",
-        "logo": "https://github.com/lumo4k/JsDioPortfolioProject/tree/main/assets/img/icons/Php.svg"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/php.png"
       },
       {
         "name": "Java",
