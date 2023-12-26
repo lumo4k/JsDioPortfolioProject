@@ -1,7 +1,7 @@
 {
   "name": "Luan da Rosa Abreu",
   "photo": "https://avatars.githubusercontent.com/u/39030500?v=4",
-  "job": "Fullstack ",
+  "job": "Fullstack Developer",
   "location": "São Roque - SP",
   "phone": "(11) 96302-3011",
   "email": "luanmorales321@gmail.com",
@@ -9,70 +9,68 @@
     "hardSkills": [
       {
         "name": "PHP",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/php.png"
+        "logo": "https://raw.githubusercontent.com/lumo4k/JsDioPortfolioProject/main/data/imgs/php.png"
       },
       {
         "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "logo": "https://raw.githubusercontent.com/lumo4k/JsDioPortfolioProject/main/data/imgs/java.png"
       },
       {
         "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "logo": "https://raw.githubusercontent.com/lumo4k/JsDioPortfolioProject/main/data/imgs/angular.png"
       },
       {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "name": "Javascript",
+        "logo": "https://raw.githubusercontent.com/lumo4k/JsDioPortfolioProject/main/data/imgs/js.png"
       },
       {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "name": "PostgreSql",
+        "logo": "https://raw.githubusercontent.com/lumo4k/JsDioPortfolioProject/main/data/imgs/postgresql.png"
       },
       {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "Kotlin",
+        "logo": "https://raw.githubusercontent.com/lumo4k/JsDioPortfolioProject/main/data/imgs/kotlin.png"
       }
     ],
     "softSkills": [
-      "Empatia",
-      "Liderança",
+      "Tomada de decisões",
       "Trabalho em equipe",
       "Flexibilidade",
-      "Organização"
+      "Organização",
+      "Facilidade em se comunicar"
     ]
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Inglês (Avançado)"
   ],
   "portfolio": [
     {
       "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "url": "https://github.com/lumo4k/pokedex",
       "github": true
     },
     {
       "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "url": "https://github.com/lumo4k/JsDioPortfolioProject",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Fullstack Developer - Maker Ag",
+      "period": "2023 - até o momento",
+      "description": "Sou o único programador da empresa focado na parte de serviços de marketing, faço a parte do desenvolvimento de sites institucionais e landing pages, manutenção de código, tratamento de APIs externas, utilizando PHP e Javascript, alguns frameworks como Laravel, Tailwind e Sass também, deploy desses sites e sistemas na web, registro de domínios e outras funções"
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Fullstack Developer - Freelancer",
+      "period": "2023 - até o momento",
+      "description": "Desenvolvimento de Scripts para Landing pages e sites institucionais, manutenção de código, adaptação para mobile, desenvolvimento de funcionalidades específicas, tratamento do retorno dos dados de APIs e Design de Landing Pages"
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Suporte de Redes - Union Cobra - Estágio",
+      "period": "2021 - 2021",
+      "description": "Suporte aos mais de 100 usuários que trabalhavam na empresa, manutenção de computadores, supervisão da rede e do servidor local da empresa (Windows server), logistica de equipamentos disponíveis e faltando."
     }
   ]
 }
